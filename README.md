@@ -11,16 +11,3 @@ Bu depo, bir yazılım geliştiricisinin veya tasarımcının portföyünü serg
 
 ![](img/portfoliogif.gif)
 
-# Ekran Görüntüleri
-
-![](img/Ekran%20Alıntısı1.PNG)
-
-![](img/Ekran%20Alıntısı2.PNG)
-
-![](img/Ekran%20Alıntısı3.PNG)
-
-![](img/Ekran%20Alıntısı4.PNG)
-
-![](img/Ekran%20Alıntısı5.PNG)
-
-![](img/Ekran%20Alıntısı6.PNG)
